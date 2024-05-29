@@ -5,4 +5,11 @@ height: 400px;
     
 }
 
+.rowLenguajes img{
+    transition: transform 1s ease-in-out;
+    width: 50pxs;
 
+}
+.rowLenguajes img:hover{
+    transform: scale(1.3);
+}
